@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shihan-dubU
-- 👀 I’m interested in games and stuff
-- 🌱 I’m currently learning agile devops
-- 💞️ I’m looking to collaborate on a new game or some full stack development
+- 👀 I’m interested in full stack development & game development
+- 🌱 I’m currently learning the Agile methodology for devops!
+- 💞️ I’m looking to collaborate on full stack & game development, as well as mobile applications!
 - 📫 Contact me at wshihan@u.nus.edu
 
 <!---
