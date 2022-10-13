@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shihan-dubU)](https://github.com/anuraghazra/github-readme-stats)
-
 # About
 - 👋 Hi, I’m @shihan-dubU
 - 👀 I’m interested in full stack development & game development
