@@ -1,10 +1,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shihan-dubU)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihan-dubU)](https://github.com/anuraghazra/github-readme-stats)
 
+# About
 - 👋 Hi, I’m @shihan-dubU
 - 👀 I’m interested in full stack development & game development
 - 🌱 I’m currently learning the Agile methodology for devops!
 - 💞️ I’m looking to collaborate on full stack & game development, as well as mobile applications!
+
 - 📫 Contact me at wshihan@u.nus.edu
 
 <!---
